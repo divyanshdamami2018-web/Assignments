@@ -1,0 +1,19 @@
+{
+  "name": "assignment_1_",
+  "version": "1.0.0",
+  "description": "Assignment_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/divyanshdamami2018-web/Assignments.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/divyanshdamami2018-web/Assignments/issues"
+  },
+  "homepage": "https://github.com/divyanshdamami2018-web/Assignments#readme"
+}
